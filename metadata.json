@@ -1,0 +1,6 @@
+{
+  "name": "Bounce Tales",
+  "description": "Classic retro platformer with red rubber ball physics, rings, puzzles, power-ups, upbeat music, and leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
